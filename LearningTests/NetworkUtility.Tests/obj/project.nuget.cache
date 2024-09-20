@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LL/lCd/ian8=",
+  "dgSpecHash": "HA4OY7wX1Hc=",
   "success": true,
   "projectFilePath": "/Users/ryo/Documents/personal-projects/learnings/csharp-learnings/LearningTests/NetworkUtility.Tests/NetworkUtility.Tests.csproj",
   "expectedPackageFiles": [
+    "/Users/ryo/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/ryo/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/ryo/.nuget/packages/fakeiteasy/8.3.0/fakeiteasy.8.3.0.nupkg.sha512",
     "/Users/ryo/.nuget/packages/fluentassertions/6.12.1/fluentassertions.6.12.1.nupkg.sha512",
     "/Users/ryo/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
     "/Users/ryo/.nuget/packages/microsoft.net.test.sdk/17.8.0/microsoft.net.test.sdk.17.8.0.nupkg.sha512",
@@ -40,6 +42,7 @@
     "/Users/ryo/.nuget/packages/system.console/4.3.0/system.console.4.3.0.nupkg.sha512",
     "/Users/ryo/.nuget/packages/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
     "/Users/ryo/.nuget/packages/system.diagnostics.diagnosticsource/4.3.0/system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
+    "/Users/ryo/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "/Users/ryo/.nuget/packages/system.diagnostics.tools/4.3.0/system.diagnostics.tools.4.3.0.nupkg.sha512",
     "/Users/ryo/.nuget/packages/system.diagnostics.tracing/4.3.0/system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "/Users/ryo/.nuget/packages/system.globalization/4.3.0/system.globalization.4.3.0.nupkg.sha512",
